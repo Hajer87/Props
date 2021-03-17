@@ -1,0 +1,19 @@
+.profile{
+      text-align:  center;;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+   
+      border: solid;
+      width: 50%;
+   
+}
+.info{
+      font-family: 'Akaya Telivigala', cursive;
+      font-family: 'Redressed', cursive;
+      font-family: 'Source Code Pro', monospace;
+      padding: 5px;
+      float: left;
+      margin: 30px;
+      font-size: 5 px;
+}        
